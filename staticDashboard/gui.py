@@ -1,7 +1,6 @@
 
 ## STATIC DASHBOARD EXAMPLE - GUI dashboard creation
-#    MRG - March 2016
-#    Contact: Guillermo Monge (r559042)
+#    Last update: April 2016
 
 
 ## INDEX

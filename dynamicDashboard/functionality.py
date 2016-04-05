@@ -1,7 +1,6 @@
 
 ## DYNAMIC DASHBOARD EXAMPLE - Functionality
-#    MRG - March 2016
-#    Contact: Guillermo Monge (r559042)
+#    Last update: April 2016
 
 
 ## INDEX
